@@ -1,0 +1,9 @@
+D:\Oscar\UTN\PAVI\2019\3k1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+D:\Oscar\UTN\PAVI\2019\3k1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+D:\Oscar\UTN\PAVI\2019\3k1\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+D:\Oscar\UTN\PAVI\2019\3k1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csprojResolveAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2019\3k1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2019\3k1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.GenerateResource.Cache
+D:\Oscar\UTN\PAVI\2019\3k1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+D:\Oscar\UTN\PAVI\2019\3k1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+D:\Oscar\UTN\PAVI\2019\3k1\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.frmLogin.resources

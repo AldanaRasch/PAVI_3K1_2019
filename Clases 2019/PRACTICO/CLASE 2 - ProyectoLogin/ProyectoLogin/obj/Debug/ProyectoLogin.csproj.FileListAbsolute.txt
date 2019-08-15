@@ -1,0 +1,10 @@
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.exe.config
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.exe
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\bin\Debug\ProyectoLogin.pdb
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.csprojResolveAssemblyReference.cache
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.frmLogin.resources
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.frmPrincipal.resources
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.Properties.Resources.resources
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.csproj.GenerateResource.Cache
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.exe
+D:\Oscar\UTN\PAVI\2019\3k1\ProyectoLogin\ProyectoLogin\obj\Debug\ProyectoLogin.pdb
